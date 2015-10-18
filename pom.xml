@@ -15,7 +15,7 @@ This program is made available under the terms of the MIT License.
 
     <groupId>net.javacrumbs.jadler-jdk</groupId>
     <artifactId>jadler-jdk</artifactId>
-    <version>1.1.2</version>
+    <version>1.1.3-SNAPSHOT</version>
     <description>Uses JDK HTTP server instead of Jetty so it can be used with any Jetty server version you choose.
     </description>
 
